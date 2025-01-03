@@ -23,13 +23,13 @@
 	}
   ],
   "envParams": {
-    {
+    
       "COS_BUCKET": "7072-prod-4gwjzadvbf2373a8-1313867046",
       "COS_REGION": "ap-shanghai",
       "MYSQL_ADDRESS": "10.22.110.134:3306",
       "MYSQL_PASSWORD": "vuqvu5-xUhnyj-qogjaf",
       "MYSQL_USERNAME": "root"
-    }    
+    
   },
   "customLogs": "stdout",
   "initialDelaySeconds": 2,
